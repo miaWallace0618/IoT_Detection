@@ -8,7 +8,7 @@ This project aims to build machine learning models to classify types of devices 
 
 * Data_Preparation 
 	- IP_Mac_Mapping.ipynb: an example file used to map IP address and MAC address
-	- Clean_Data_Pipeline.ipynb: an example file used to clean log data from S3
+	- S3_ReadData_Pipeline.ipynb: an example file used to clean log data from S3
 
 * AWS_ModelBuilding
 	- AWS_S3_ReadData.ipynb: an example file used to read data from S3 to SageMaker
